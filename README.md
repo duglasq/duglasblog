@@ -1,2 +1,0 @@
-# duglasblog
-blog 
